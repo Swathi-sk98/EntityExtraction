@@ -1,0 +1,7 @@
+celery==3.2.1 for windows
+celery==4.3.0 for mac
+Python 3.7.4
+Flask 1.1.1
+Werkzeug 0.16.0
+MongoDB shell version v4.2.1
+redis==3.2.1
